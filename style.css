@@ -1,0 +1,22 @@
+body{
+    
+    font-family: monospace;
+    text-align: center;
+    background-image: url("https://d.top4top.net/p_11739e6ge1.jpg");
+}
+
+h1{
+    font-size: 250%;
+    color: blue;
+    
+}
+
+h2{
+    font-size: 200%;
+    color: brown;  
+}
+
+h3{
+    font-size: 150%;
+    color: gray;
+}
